@@ -1,4 +1,4 @@
-# javaScripttuteSecond
+# javaScriptTuteSecond
 
 cmd npx create-react-app Your-app-Name
 cd Your-app-Name
